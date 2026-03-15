@@ -1,3 +1,6 @@
+# ignore assets cause data is too big
+assets/*
+
 # History files
 .Rhistory
 .Rapp.history
@@ -5,6 +8,7 @@
 # Session Data files
 .RData
 .RDataTmp
+.RDataTmp*
 
 # User-specific files
 .Ruserdata

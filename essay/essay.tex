@@ -1,0 +1,59 @@
+\documentclass[11pt, a4paper]{article}
+
+% --- Schriftart & Kodierung ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel} % Oder {ngerman} für Deutsch
+\usepackage{mathpazo} % Palatino Schriftart
+\usepackage{import}
+\usepackage{tocloft}
+
+% --- Seitenränder (2.5 cm rundherum) ---
+\usepackage[margin=2.5cm]{geometry}
+
+% --- Zeilenabstand (1.5-zeilig) ---
+\usepackage[onehalfspacing]{setspace}
+
+% --- Zitation (APA Style Beispiel) ---
+% Benötigt eine Datei namens "references.bib"
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{references.bib}
+
+\addto\captionsenglish{\renewcommand{\contentsname}{Inhaltsverzeichnis}}
+\renewcommand{\cftsecdotsep}{\cftdotsep}
+\renewcommand{\cftsecfont}{\normalfont}      % Section Text normal
+\renewcommand{\cftsecpagefont}{\normalfont}  % Section Seitenzahl normal
+
+\let\oldsection\section
+\renewcommand{\section}{\clearpage\oldsection}
+
+\setlength{\parindent}{0pt}      % Keine Einrückung der ersten Zeile
+\setlength{\parskip}{1em}        % Abstand zwischen zwei Absätzen
+
+% --- Dokument-Metadaten ---
+\title{MovieLens movie ranking networks}
+\author{Lars Müller}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\import{src/}{introduction.tex}
+\import{src/}{research_agenda.tex}
+\import{src/}{data_overview.tex}
+\import{src/}{methods_overview.tex}
+\import{src/}{related_work.tex}
+\import{src/}{experiment_design.tex}
+\import{src/}{results_and_discussion.tex}
+\import{src/}{conclusion.tex}
+\import{src/}{references.tex}
+
+
+\newpage
+\printbibliography[title={Literaturverzeichnis}]
+
+\end{document}

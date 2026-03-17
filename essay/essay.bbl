@@ -53,6 +53,39 @@
       \field{volume}{5}
       \field{year}{2015}
     \endentry
+    \entry{KnowledgeSolutions2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8dcc3fa0c23037ceec3826b63803a2af}{%
+           family={Serrat},
+           familyi={S\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{fullhash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{fullhashraw}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{bibnamehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authorbibnamehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authornamehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authorfullhash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authorfullhashraw}{8dcc3fa0c23037ceec3826b63803a2af}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{9}
+      \field{edition}{1}
+      \field{isbn}{978-981-10-0982-2}
+      \field{title}{Knowledge Solutions}
+      \field{year}{2017}
+    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
     \entry{MovieLens10M}{article}{}{}
@@ -88,6 +121,39 @@
       \field{title}{The MovieLens Datasets: History and Context}
       \field{volume}{5}
       \field{year}{2015}
+    \endentry
+    \entry{KnowledgeSolutions2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8dcc3fa0c23037ceec3826b63803a2af}{%
+           family={Serrat},
+           familyi={S\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{fullhash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{fullhashraw}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{bibnamehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authorbibnamehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authornamehash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authorfullhash}{8dcc3fa0c23037ceec3826b63803a2af}
+      \strng{authorfullhashraw}{8dcc3fa0c23037ceec3826b63803a2af}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{9}
+      \field{edition}{1}
+      \field{isbn}{978-981-10-0982-2}
+      \field{title}{Knowledge Solutions}
+      \field{year}{2017}
     \endentry
   \enddatalist
   \missing{ZionMarketResearch}

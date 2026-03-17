@@ -1,3 +1,27 @@
 \section{Methodenüberblick (1)}
 
- Hier wird der methodenüberblick anfangen
+Moderne Datensätze, wie der in diesem Projekt verwendete, beinhalten eine immense Anzahl an Datenpunkten und komplexen Interaktionen.
+Eine Analyse ohne digitale, moderne Analysemethoden ist somit nicht mehr praktikabel.
+Um die komplexen Abhängigkeiten zwischen Nutzern, Filmen und Genres explizit darzustellen und zu untersuchen, wird die Netzwerkanalyse als zentrale Methode in diesem Projekt angewendet, welche einen speziellen Schwerpunkt auf Akteure und deren Beziehungen legt. \parencite{KnowledgeSolutions2017}
+
+Die Grundlegende Idee der Netzwerkanalyse besteht  darin, Beziehungen zwischen den Daten zu finden.
+Dargestellt wird dies mit Hilfe eines Netzwerkes, bestehend aus Knoten, welche mit gerichteten oder ungerichteten Kanten verbunden sind.
+Sowohl Knoten, auch Entitäten genannt, als auch Kanten können entsprechende Label für eine bessere Visualisierung erhalten.
+Weiterhin können Kanten je nach Wichtigkeit ein entsprechendes Gewicht besitzen.
+Je nach Szenario wird somit zwischen gerichteten, ungerichteten und gewichteten Relationen unterschieden.
+
+Den Daten entsprechend kann neben ausschließlich gleichartigen Knoten in einem 1-mode Netzwerk auch ein bipartites Netzwerk mit Knoten zweier Typen aufgestellt werden.
+
+Die Analyse des Netzwerks umfasst verschiedene Vorgehensweisen.
+Visuell repräsentiert können alleinstehende Gruppenstrukturen direkt erkannt werden. In dem auf unseren Datensatz basierendem Netzwerk sind dies Zuschauer mit einem ähnlichen Sehverhalten, welche allerdings zu keinen anderen Zuschauern außerhalb der Gruppe eine ähnlich hohe Gemeinsamkeit aufweisen.
+Um Gruppenstrukturen ausfindig zu machen, welche nicht auf kompletter Isolation aufbauen ist die Modularität als Maßstab für die relative Dichte von Unterstukturen essentiell.
+
+Trotz der Vorteile der Netzwerkanalyse müssen methodische und datensettechnische Limitationen berücksichtigt werden.
+Aus der erwähnten Größe des Datensatzes folgt eine zwingend erforderliche Filterung von relevanten Datensätzen, damit eine digitale Analyse im Hinblick auf die Zeitkomplexität, auf Kosten der Datenvielfalt, möglich ist.
+
+Neben den in 3.2 aufgelisteten Schwachpunkten des Datensatzes zeigt auch die Methode nicht vermeidbare Schwachstellen.
+Ein durch die Netzwerkanalyse indiziertes, ähnliches Sehverhalten bedeutet nicht gleich, dass ein echter gemeinsamer Geschmack vorliegt;
+Bewertungen sind subjektiv, dem entsprechend können Zuschauer Filme aus völlig unterschiedlichen Gründen gleich bewerten, wodurch eine klare Geschmacksdifferenz vorliegt, welche in der Netzwerkanalyse nicht berücksichtigt wird.
+
+Abschließend liegen die Beziehungsergebnisse außerdem stark von der verwendten Vergleichsmetrik ab. 
+Wichtig ist daher, eine entsprechende Balance zwischen gemeinsam gesehenen Filmen, der individuellen Bewertung und dem übergeordneten Genre zu finden.

@@ -33,7 +33,7 @@ top_users <- ratings_content %>%
   group_by(userID) %>%
   summarise(n = n()) %>%
   arrange(desc(n)) %>%
-  slice(1:2500) 
+  slice(1:1000) 
 
 top_ratings <- ratings_content %>%
   filter(userID %in% top_users$userID)
@@ -58,8 +58,8 @@ user_rating_distance <- as.matrix(proxy::dist(as.matrix(user_movie_content), met
 # get rid of total_movie_amount cause manhattan distance is sum of all dist / sim entries * total_movie_amount
 avg_user_rating_distance <- user_rating_distance / total_movie_amount
 
-# cause ratings up to 5 stars
-user_user_norm_rating_sim <- 1 - (avg_user_rating_distance / 5)
+# cause ratings diff up to 4.5 stars
+user_user_norm_rating_sim <- 1 - (avg_user_rating_distance / 4.5)
 
 
 #
@@ -81,7 +81,7 @@ user_user_diff_count <- user_user_diff_a + user_user_diff_b
 user_user_norm_movie_sim <- user_user_common_count / (user_user_diff_count/2 + user_user_common_count)
 user_user_norm_movie_sim[is.nan(user_user_norm_movie_sim)] <- 0
 
-movie_difference_punnish_factor = .4
+movie_difference_punnish_factor = .5
 
 user_sim <- (movie_difference_punnish_factor * user_user_norm_movie_sim
              + (1 - movie_difference_punnish_factor) * user_user_norm_rating_sim)
@@ -95,7 +95,7 @@ diag(user_sim) <- 0
 #
 
 adj_matrix <- user_sim
-adj_matrix[adj_matrix <= .77] <- 0
+adj_matrix[adj_matrix <= .7] <- 0
 
 sim_graph <- graph_from_adjacency_matrix(adj_matrix, mode = "undirected", weighted = TRUE, diag = FALSE)
 sim_graph <- delete_vertices(sim_graph, V(sim_graph)[degree(sim_graph) <= 2])

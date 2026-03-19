@@ -19,6 +19,107 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Fortune2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8174ec49dcf1c02630e8866fb4dc19b2}{%
+           family={{Fortune Business Insights}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{fullhash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{fullhashraw}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{bibnamehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authorbibnamehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authornamehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authorfullhash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authorfullhashraw}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Video-Streaming-Marktgröße, Anteil und Branchenanalyse}
+      \field{urlday}{19}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fortunebusinessinsights.com/de/video-streaming-markt-103057
+      \endverb
+      \verb{url}
+      \verb https://www.fortunebusinessinsights.com/de/video-streaming-markt-103057
+      \endverb
+    \endentry
+    \entry{ha2019}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f15252bcbdcfbcd0f6c6cb7d5f254aea}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Hyoji},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2878084b2458da099c5f52eddbad2bd4}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Hyunwoo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3984843394719c40a0f695574f8b4cb7}{%
+           family={Mun},
+           familyi={M\bibinitperiod},
+           given={Seongmin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b18e8b592b5b72436f422382c11ec20a}{%
+           family={Bae},
+           familyi={B\bibinitperiod},
+           given={Sungyun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6f5873f8cc3214dbe29ea1a77382b59}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jihye},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b51f8d9267b21b25e13f6162bc115bb}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kyungwon},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1b5a39049c6e41ee5cd5fb3e4bca81f}
+      \strng{fullhash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{fullhashraw}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{bibnamehash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{authorbibnamehash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{authornamehash}{e1b5a39049c6e41ee5cd5fb3e4bca81f}
+      \strng{authorfullhash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{authorfullhashraw}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{title}{An Improved Study of Multilevel Semantic Network Visualization for Analyzing Sentiment Word of Movie Review Data}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{2419}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/9/12/2419
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/9/12/2419
+      \endverb
+    \endentry
     \entry{MovieLens10M}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=95c1b94af421fa579fafe01078c70b37}{%
@@ -53,6 +154,59 @@
       \field{volume}{5}
       \field{year}{2015}
     \endentry
+    \entry{liu2010social}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc58cd6a24a023ce7177d8f199d47875}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f70aa6d1efccd0444999bf75d66abef}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jinhui},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40fce04bb2aa1d23b84d9c3441c92310}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Shiyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53cf3057a5afe39f80bc6c1fdf9a86d8}
+      \strng{fullhash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{fullhashraw}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{bibnamehash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{authorbibnamehash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{authornamehash}{53cf3057a5afe39f80bc6c1fdf9a86d8}
+      \strng{authorfullhash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{authorfullhashraw}{6bd5fb40103b24817d6c3621454ac0c7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Incorporating social networks and user opinions for collaborative recommendation: local trust network based method}
+      \field{year}{2010}
+      \field{pages}{53\bibrangedash 56}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/abs/10.1145/1869652.1869661
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/abs/10.1145/1869652.1869661
+      \endverb
+    \endentry
     \entry{KnowledgeSolutions2017}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8dcc3fa0c23037ceec3826b63803a2af}{%
@@ -85,9 +239,218 @@
       \field{isbn}{978-981-10-0982-2}
       \field{title}{Knowledge Solutions}
       \field{year}{2017}
+    \endentry
+    \entry{su2021rating}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f168422ce4850696dc051ebbc328a3a5}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Zhan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1715d3158659b4b2c26fcad40953dfc}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zuyi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b6d728b8f2ced442ac349a7ad710dd6}{%
+           family={Ai},
+           familyi={A\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b1528d0b6c9bc88bfd8c569f290bcec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0f8a67dc66f5dd8cec4ad793700d0fac}
+      \strng{fullhash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{fullhashraw}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{bibnamehash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{authorbibnamehash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{authornamehash}{0f8a67dc66f5dd8cec4ad793700d0fac}
+      \strng{authorfullhash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{authorfullhashraw}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Rating Prediction in Recommender Systems Based on User Behavior Probability and Complex Network Modeling}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{30739\bibrangedash 30749}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9357332
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9357332
+      \endverb
+    \endentry
+    \entry{Wang2015}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c751b79c0d3810bd21d56c75dd48584a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=568d6dd3a85cf45d9d359932e7c270db}{%
+           family={Gaikar},
+           familyi={G\bibinitperiod},
+           given={Dipak\bibnamedelima Damodar},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63d63c0b2680aa85006745f19b574b66}{%
+           family={Marakarkandy},
+           familyi={M\bibinitperiod},
+           given={Binith},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45bd3a48dd91c6a04f84be471355a4de}{%
+           family={Dasgupta},
+           familyi={D\bibinitperiod},
+           given={Chhanda},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee2361c4164ab958c0266369fbb7cdda}
+      \strng{fullhash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{fullhashraw}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{bibnamehash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{authorbibnamehash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{authornamehash}{ee2361c4164ab958c0266369fbb7cdda}
+      \strng{authorfullhash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{authorfullhashraw}{458d2a769220fe6e2eada441ad5aae0e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Management \& Data Systems}
+      \field{number}{9}
+      \field{title}{Using Twitter data to predict the performance of Bollywood movies}
+      \field{volume}{115}
+      \field{year}{2015}
+      \field{pages}{1604\bibrangedash 1621}
+      \range{pages}{18}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{Fortune2026}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8174ec49dcf1c02630e8866fb4dc19b2}{%
+           family={{Fortune Business Insights}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{fullhash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{fullhashraw}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{bibnamehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authorbibnamehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authornamehash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authorfullhash}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \strng{authorfullhashraw}{8174ec49dcf1c02630e8866fb4dc19b2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Video-Streaming-Marktgröße, Anteil und Branchenanalyse}
+      \field{urlday}{19}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.fortunebusinessinsights.com/de/video-streaming-markt-103057
+      \endverb
+      \verb{url}
+      \verb https://www.fortunebusinessinsights.com/de/video-streaming-markt-103057
+      \endverb
+    \endentry
+    \entry{ha2019}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=f15252bcbdcfbcd0f6c6cb7d5f254aea}{%
+           family={Ha},
+           familyi={H\bibinitperiod},
+           given={Hyoji},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2878084b2458da099c5f52eddbad2bd4}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Hyunwoo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3984843394719c40a0f695574f8b4cb7}{%
+           family={Mun},
+           familyi={M\bibinitperiod},
+           given={Seongmin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b18e8b592b5b72436f422382c11ec20a}{%
+           family={Bae},
+           familyi={B\bibinitperiod},
+           given={Sungyun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6f5873f8cc3214dbe29ea1a77382b59}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jihye},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b51f8d9267b21b25e13f6162bc115bb}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kyungwon},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1b5a39049c6e41ee5cd5fb3e4bca81f}
+      \strng{fullhash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{fullhashraw}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{bibnamehash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{authorbibnamehash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{authornamehash}{e1b5a39049c6e41ee5cd5fb3e4bca81f}
+      \strng{authorfullhash}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \strng{authorfullhashraw}{fe7f12d55504ee56d1c8e4bf5bbc675c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{title}{An Improved Study of Multilevel Semantic Network Visualization for Analyzing Sentiment Word of Movie Review Data}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{2419}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/9/12/2419
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/9/12/2419
+      \endverb
+    \endentry
     \entry{MovieLens10M}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=95c1b94af421fa579fafe01078c70b37}{%
@@ -122,6 +485,59 @@
       \field{volume}{5}
       \field{year}{2015}
     \endentry
+    \entry{liu2010social}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc58cd6a24a023ce7177d8f199d47875}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f70aa6d1efccd0444999bf75d66abef}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Jinhui},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40fce04bb2aa1d23b84d9c3441c92310}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Shiyuan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53cf3057a5afe39f80bc6c1fdf9a86d8}
+      \strng{fullhash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{fullhashraw}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{bibnamehash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{authorbibnamehash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{authornamehash}{53cf3057a5afe39f80bc6c1fdf9a86d8}
+      \strng{authorfullhash}{6bd5fb40103b24817d6c3621454ac0c7}
+      \strng{authorfullhashraw}{6bd5fb40103b24817d6c3621454ac0c7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Incorporating social networks and user opinions for collaborative recommendation: local trust network based method}
+      \field{year}{2010}
+      \field{pages}{53\bibrangedash 56}
+      \range{pages}{4}
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/abs/10.1145/1869652.1869661
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/abs/10.1145/1869652.1869661
+      \endverb
+    \endentry
     \entry{KnowledgeSolutions2017}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8dcc3fa0c23037ceec3826b63803a2af}{%
@@ -154,6 +570,114 @@
       \field{isbn}{978-981-10-0982-2}
       \field{title}{Knowledge Solutions}
       \field{year}{2017}
+    \endentry
+    \entry{su2021rating}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f168422ce4850696dc051ebbc328a3a5}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Zhan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1715d3158659b4b2c26fcad40953dfc}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zuyi},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b6d728b8f2ced442ac349a7ad710dd6}{%
+           family={Ai},
+           familyi={A\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b1528d0b6c9bc88bfd8c569f290bcec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0f8a67dc66f5dd8cec4ad793700d0fac}
+      \strng{fullhash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{fullhashraw}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{bibnamehash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{authorbibnamehash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{authornamehash}{0f8a67dc66f5dd8cec4ad793700d0fac}
+      \strng{authorfullhash}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \strng{authorfullhashraw}{c3c2cbd49308d481bf0bbeaba80ff538}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Rating Prediction in Recommender Systems Based on User Behavior Probability and Complex Network Modeling}
+      \field{volume}{9}
+      \field{year}{2021}
+      \field{pages}{30739\bibrangedash 30749}
+      \range{pages}{11}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9357332
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9357332
+      \endverb
+    \endentry
+    \entry{Wang2015}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c751b79c0d3810bd21d56c75dd48584a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=568d6dd3a85cf45d9d359932e7c270db}{%
+           family={Gaikar},
+           familyi={G\bibinitperiod},
+           given={Dipak\bibnamedelima Damodar},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63d63c0b2680aa85006745f19b574b66}{%
+           family={Marakarkandy},
+           familyi={M\bibinitperiod},
+           given={Binith},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45bd3a48dd91c6a04f84be471355a4de}{%
+           family={Dasgupta},
+           familyi={D\bibinitperiod},
+           given={Chhanda},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee2361c4164ab958c0266369fbb7cdda}
+      \strng{fullhash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{fullhashraw}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{bibnamehash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{authorbibnamehash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{authornamehash}{ee2361c4164ab958c0266369fbb7cdda}
+      \strng{authorfullhash}{458d2a769220fe6e2eada441ad5aae0e}
+      \strng{authorfullhashraw}{458d2a769220fe6e2eada441ad5aae0e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Management \& Data Systems}
+      \field{number}{9}
+      \field{title}{Using Twitter data to predict the performance of Bollywood movies}
+      \field{volume}{115}
+      \field{year}{2015}
+      \field{pages}{1604\bibrangedash 1621}
+      \range{pages}{18}
     \endentry
   \enddatalist
   \missing{ZionMarketResearch}

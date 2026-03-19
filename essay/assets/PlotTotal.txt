@@ -1,0 +1,3 @@
+modularity = 60,63
+communities = 12
+user = 1000

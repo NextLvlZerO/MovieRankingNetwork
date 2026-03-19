@@ -1,3 +1,24 @@
 \section{Experimentsaufbau (1)}
 
-das hier ist die seite wo steht wie genau ich die daten auswerten möchte
+Die Methode der Netzwerkanalyse wird auf verschiedene Teildatensätze, basierend auf den uns wichtigen Eigenschaften, angewendet.
+
+Damit eine sinnvolle Netzwerkanalyse ausgeführt werden kann, ist es essentiell den vorhandenen Datensatz in R zu überarbeiten und zu filtern.
+Aufgrund der immensen Datenmenge wird die Analyse auf 1.000 Zuschauer begrenzt, damit ein komplexer Vergleich zeittechnisch möglich ist.
+Um das breite Spektrum möglichst präzise repräsentieren zu können werden die Nutzer mittels Zufallsprinzip bei einem gleichbleibenden Zufalls-Seed ausgelost, damit eine Konstanz für spätere Analysen gewährleistet wird.
+
+Anschließend wird eine Nutzer-Nutzer Matrix erstellt, welche die ausschlaggebende Sehverhaltensmetrik für jedes Nutzerpaar beinhaltet und zeitgleich als Adjazenzmatrix für eine spätere Visualisierung dient.
+Die Sehverhaltensmetrik wird aus zwei wichtigen features berechnet.
+Einerseits sollte bei einem sich ähnelnden Filmgeschmack eine angleichende gesehene Filmhistorie vorliegen, sprich die Menge der gemeinsam gesehenen Filme sollte möglichst nah an die von beiden insgesamt gesehen Filme heranreichen.
+Andererseits ist die Bewertung der gemeinsam gesehen Filme beider Nutzer von ausschlaggebender Bedeutung.
+Falls ein gemeinsamer Filmgeschmack vorliegt, dann sollte sich dies in einer ähnlichen Wertung der Filme widerspiegeln.
+Um eine möglichst vielseitige Analyse zu gewährleisten, ist es möglich die Wichtung der beiden Metrik-Features mit einem Parameter zu kontrollieren.
+
+Damit eine sinnvolle Netzwerkanalyse möglich ist, werden all diejenigen Kanten entfernt, welche einen gewissen Schwellenwert unterschreiten, damit nicht jede noch so kleine Ähnlichkeit zu einer visuellen Kante führt.
+Folgend wird mittels Adjazenzmatrix ein ungerichteter Netzwerkgraph konstruiert, welcher die Nutzer als Knoten und die entsprechende Ähnlichkeits-Metrik zu anderen Nutzern als Kanten darstellt.
+Vorliegende Communities werden anschließend mit Hilfe des "cluster louvain"-Algorithmus - basierend auf einer möglichst hohen lokalen modularität - ausfindig gemacht.
+
+Um eine potentielle Korrelation zwischen Gruppen und Genres herausstellen zu können, wird eine Genreanalyse für jedes vorliegende Cluster durchgeführt.
+Die drei Hauptgenres jeder Gruppe werden daraufhin in tabellenartiger Form als prozentuale Verteilung bereitgestellt.
+
+Damit eine Analyse der Filme, welche als Hauptfaktor für eine solche Clusterbildung in Frage kommen, durchgeführt werden kann, wird analog zur Genreanalyse eine Tabelle hinzugefügt, welche den Anteil der pro Gruppe gesehenen Filmearten prozentual vergleicht.
+Hierbei werden Filme mit einer geringen Anzahl an Rezensionen als Nischenfilme bezeichnet - und vice versa solche mit den häufigsten Bewertungen als Blockbuster.

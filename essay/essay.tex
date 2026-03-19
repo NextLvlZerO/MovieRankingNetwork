@@ -1,36 +1,33 @@
 \documentclass[11pt, a4paper]{article}
 
-% --- Schriftart & Kodierung ---
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[english]{babel} % Oder {ngerman} für Deutsch
-\usepackage{mathpazo} % Palatino Schriftart
+\usepackage[ngerman]{babel}
+\usepackage{libertinus}
 \usepackage{import}
 \usepackage{tocloft}
+\usepackage{graphicx}
+\usepackage{subcaption}
 
-% --- Seitenränder (2.5 cm rundherum) ---
 \usepackage[margin=2.5cm]{geometry}
 
-% --- Zeilenabstand (1.5-zeilig) ---
 \usepackage[onehalfspacing]{setspace}
 
-% --- Zitation (APA Style Beispiel) ---
-% Benötigt eine Datei namens "references.bib"
 \usepackage[style=apa, backend=biber]{biblatex}
 \addbibresource{references.bib}
 
 \addto\captionsenglish{\renewcommand{\contentsname}{Inhaltsverzeichnis}}
 \renewcommand{\cftsecdotsep}{\cftdotsep}
-\renewcommand{\cftsecfont}{\normalfont}      % Section Text normal
-\renewcommand{\cftsecpagefont}{\normalfont}  % Section Seitenzahl normal
+\renewcommand{\cftsecfont}{\normalfont}
+\renewcommand{\cftsecpagefont}{\normalfont}
 
 \let\oldsection\section
 \renewcommand{\section}{\clearpage\oldsection}
+\renewcommand{\figurename}{Abbildung}
 
-\setlength{\parindent}{0pt}      % Keine Einrückung der ersten Zeile
-\setlength{\parskip}{1em}        % Abstand zwischen zwei Absätzen
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
 
-% --- Dokument-Metadaten ---
 \title{MovieLens movie ranking networks}
 \author{Lars Müller}
 \date{\today}

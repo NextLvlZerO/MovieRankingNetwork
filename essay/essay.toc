@@ -1,12 +1,13 @@
-\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung (0.5 - 1)}{2}{}%
 \contentsline {section}{\numberline {2}Forschungsagenda (1)}{3}{}%
 \contentsline {section}{\numberline {3}Datenüberblick (1)}{4}{}%
 \contentsline {subsection}{\numberline {3.1}Datensatz}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Mögliche Abweichungen}{4}{}%
-\contentsline {section}{\numberline {4}Methodenüberblick (1)}{6}{}%
-\contentsline {section}{\numberline {5}Projektbezogene Arbeiten (0.5 - 1)}{7}{}%
-\contentsline {section}{\numberline {6}Experimentsaufbau (1)}{8}{}%
-\contentsline {section}{\numberline {7}Ergebnisse und Diskussion (2 - 3)}{9}{}%
-\contentsline {section}{\numberline {8}Fazit (0.5 - 1)}{10}{}%
-\contentsline {section}{\numberline {9}Literatur (0.5 - 1)}{11}{}%
+\contentsline {section}{\numberline {4}Methodenüberblick (1)}{5}{}%
+\contentsline {section}{\numberline {5}Projektbezogene Arbeiten (0.5 - 1)}{6}{}%
+\contentsline {section}{\numberline {6}Experimentsaufbau (1)}{7}{}%
+\contentsline {section}{\numberline {7}Ergebnisse und Diskussion (2 - 3)}{8}{}%
+\contentsline {subsection}{\numberline {7.1}Gesamtbetrachtung}{9}{}%
+\contentsline {subsection}{\numberline {7.2}Zeitunterteilte Betrachtung}{11}{}%
+\contentsline {section}{\numberline {8}Fazit (0.5 - 1)}{13}{}%

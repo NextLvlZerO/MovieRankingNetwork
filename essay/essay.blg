@@ -2,20 +2,20 @@
 [0] Config.pm:311> INFO - Logfile is 'essay.blg'
 [70] biber-MSWIN64:340> INFO - === 
 [95] Biber.pm:420> INFO - Reading 'essay.bcf'
-[178] Biber.pm:994> INFO - Found 3 citekeys in bib section 0
-[192] Biber.pm:4463> INFO - Processing section 0
-[201] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
-[234] bibtex.pm:1713> INFO - LaTeX decoding ...
-[241] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[287] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[287] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[287] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[287] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[293] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[293] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[293] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[293] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[295] bbl.pm:676> INFO - Writing 'essay.bbl' with encoding 'UTF-8'
-[297] bbl.pm:779> INFO - Output to essay.bbl
-[297] Biber.pm:131> WARN - I didn't find a database entry for 'ZionMarketResearch' (section 0)
-[297] Biber.pm:133> INFO - WARNINGS: 1
+[177] Biber.pm:994> INFO - Found 8 citekeys in bib section 0
+[191] Biber.pm:4463> INFO - Processing section 0
+[200] Biber.pm:4654> INFO - Looking for bibtex file 'references.bib' for section 0
+[233] bibtex.pm:1713> INFO - LaTeX decoding ...
+[244] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[310] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[310] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[310] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[310] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
+[325] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[325] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[325] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[325] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
+[335] bbl.pm:676> INFO - Writing 'essay.bbl' with encoding 'UTF-8'
+[342] bbl.pm:779> INFO - Output to essay.bbl
+[342] Biber.pm:131> WARN - I didn't find a database entry for 'ZionMarketResearch' (section 0)
+[342] Biber.pm:133> INFO - WARNINGS: 1

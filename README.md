@@ -10,3 +10,5 @@ Are popular movies or niche movies more important for the forming of such groups
 ### Information:
 - main.R contains all the relevant code
 - test.R is a failed attempt that cost too much time to simply delete
+- Fitering the data was intentionally done on the user side rather than the movie side
+- Better results are achieved when fewer users get analyzed across the full range, compared to more users only being analyzed on a few movies

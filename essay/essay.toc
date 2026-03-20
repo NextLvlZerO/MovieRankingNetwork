@@ -1,13 +1,13 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Einleitung (0.5 - 1)}{2}{}%
-\contentsline {section}{\numberline {2}Forschungsagenda (1)}{3}{}%
-\contentsline {section}{\numberline {3}Datenüberblick (1)}{4}{}%
-\contentsline {subsection}{\numberline {3.1}Datensatz}{4}{}%
-\contentsline {subsection}{\numberline {3.2}Mögliche Abweichungen}{4}{}%
-\contentsline {section}{\numberline {4}Methodenüberblick (1)}{5}{}%
-\contentsline {section}{\numberline {5}Projektbezogene Arbeiten (0.5 - 1)}{6}{}%
-\contentsline {section}{\numberline {6}Experimentsaufbau (1)}{7}{}%
-\contentsline {section}{\numberline {7}Ergebnisse und Diskussion (2 - 3)}{8}{}%
-\contentsline {subsection}{\numberline {7.1}Gesamtbetrachtung}{9}{}%
-\contentsline {subsection}{\numberline {7.2}Zeitunterteilte Betrachtung}{11}{}%
-\contentsline {section}{\numberline {8}Fazit (0.5 - 1)}{13}{}%
+\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}%
+\contentsline {section}{\numberline {2}Forschungsfrage}{3}{section.2}%
+\contentsline {section}{\numberline {3}Datenüberblick}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Datensatz}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Mögliche Abweichungen}{4}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Methodenüberblick}{5}{section.4}%
+\contentsline {section}{\numberline {5}Projektbezogene Arbeiten}{6}{section.5}%
+\contentsline {section}{\numberline {6}Experimentsaufbau}{7}{section.6}%
+\contentsline {section}{\numberline {7}Ergebnisse und Diskussion}{8}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Gesamtbetrachtung}{9}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Zeitunterteilte Betrachtung}{11}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Fazit}{13}{section.8}%

@@ -1,32 +1,32 @@
-\section{Datenüberblick (1)}
+\section{Datenüberblick}
 \subsection{Datensatz}
 
-Der in dieser Projektarbeit verwendete Datensatz "MovieLens 10M" wurde im Jahr 2009 von der Forschungsgruppe GroupLens veröffentlicht. \parencite{MovieLens10M}
-Der Datensatz umfasst 3 Dateien, welche rund 10 Millionen Nutzerwertungen von rund 72.000 Zuschauern zu etwa 10.000 Filmen beinhalten.
+Der in dieser Projektarbeit verwendete Datensatz \enquote{MovieLens 10M} wurde im Jahr 2009 von der Forschungsgruppe GroupLens veröffentlicht. \parencite{MovieLens10M}
+Der Datensatz umfasst 3 Dateien, welche rund 10 Millionen Nutzerwertungen von rund 72 000 Zuschauern zu etwa 10 000 Filmen beinhalten.
 Jede Bewertung ist dabei mit einem Zeitstempel versehen.
-Die Auswahl der Zuschauer erfolgte  mittels Zufallprinzip, wobei als Einschlusskriterium eine Mindestanzahl von 20 Bewertungen pro Nutzer festgelegt wurde.
+Die Auswahl der Zuschauer erfolgte  mittels Zufallsprinzip, wobei als Einschlusskriterium eine Mindestanzahl von 20 Bewertungen pro Nutzer festgelegt wurde.
 Zusätzlich lässt sich jeder Film einem Genre zuordnen.
 
 \subsection{Mögliche Abweichungen}
 
-Eine Mögliche Verzerrung der Netzwerkanalyse kann durch verschiedene Faktoren beeinflusst werden. 
-Zunächst ist die erste Einschränkung des Datensets auf das Einschlusskriterium von mindestens 20 Bewertungen pro Nutzer zurückzuführen.
+Eine mögliche Verzerrung der Netzwerkanalyse kann durch verschiedene Faktoren beeinflusst werden. 
+Zunächst ist eine Einschränkung des Datensets auf das Einschlusskriterium von mindestens 20 Bewertungen pro Nutzer zurückzuführen.
 Zuschauer mit einem sehr spezifischen oder geringen Sehverhalten von wenigen Filmen werden dadurch nicht berücksichtigt.
-Dies führt dazu, dass die Bildung von potentiell kleinen Nischengruppen unterdrückt wird, wodurch das Netzwerk dichter erscheinen wird, als es in der Realität der Fall ist.
+Dies führt dazu, dass die Bildung von potenziell kleinen Nischengruppen unterdrückt wird, wodurch das Netzwerk dichter erscheinen wird, als es in der Realität der Fall ist.
 
 
 Weiterhin gibt es eine Verzerrung durch die sprachliche Barriere.
-Da die Reviewplatform, auf welcher der vorliegende Datensatz basiert, ausschließlich in englischer Sprache betrieben wird, sind nicht englischsprachige Kulturräume im Datensatz unterrepräsentiert.
-Dieser Zustand zeigt sich in der Zusammensetzung der Zuschauer, als auch in der Auswahl der bewerteten Filme wieder. 
+Da die Reviewplattform, auf welcher der vorliegende Datensatz basiert, ausschließlich in englischer Sprache betrieben wird, sind nicht englischsprachige Kulturräume im Datensatz unterrepräsentiert.
+Dieser Zustand zeigt sich in der Zusammensetzung der Zuschauer, wie auch in der Auswahl der bewerteten Filme wieder. 
 Insbesondere internationale Filme weisen somit eine geringe Repräsentanz auf.
 
-Über die sprachlichen Barriere hinaus werden Zuschauer systematisch ausgeschlossen, welche ein hohes Konsumverhalten aufweisen, dieses aber nicht auf einer Onlineplatform dokumentieren.
-Insbesondere die ältere Generation der Zuschauer, welche häufig eine Technikaffinität aufweist und mit den modernen Mechaniken heutiger digitaler Bewertungsplatformen nicht vertraut ist, wird dadurch stark unterrepräsentiert.
-Folglich bildet der Datensatz primär das Sehverhalten der jüngeren Generation ab, wodurch Filmklassiker im Vergleich zu neueren Produktionen potentiell vernachlässigt werden.
+Über die sprachliche Barriere hinaus werden Zuschauer systematisch ausgeschlossen, welche ein hohes Konsumverhalten aufweisen, dieses aber nicht auf einer Onlineplattform dokumentieren.
+Speziell die ältere Generation der Zuschauer, welche häufig eine Technikaffinität aufweist und mit den modernen Mechaniken heutiger digitaler Bewertungsplattformen nicht vertraut ist, wird dadurch stark ausgegrenzt.
+Folglich bildet der Datensatz primär das Sehverhalten der jüngeren Generation ab, wodurch Filmklassiker im Vergleich zu neueren Produktionen potenziell vernachlässigt werden.
 
 Eine weitere mögliche Verzerrung folgt aus extremistischen Bewertungen.
-Viele Menschen neigen dazu Filme vor allem dann zu bewerten, wenn sie sie überragend gut oder enttäuschend schlecht finden.
-Filme mit einer eher Durchschnittlichen Wertung könnten somit seltener Dokumentiert werden.
+Viele Menschen neigen dazu, Filme vor allem dann zu bewerten, wenn sie diese überragend gut oder enttäuschend schlecht finden.
+Filme mit einer statistisch durchschnittlichen Wertung könnten somit seltener dokumentiert werden.
 
 Es ist deutlich, dass die oben geschilderten Faktoren den Bias unseres Datensatzes beeinflussen.
-Trotzdem ermöglicht eine Analyse dieses Datensatzes wertvolle Einblicke in das dynamische Sehverhalten.
+Trotzdem ermöglicht eine Analyse dieses Datensatzes einen wertvollen Einblick in das dynamische Sehverhalten.

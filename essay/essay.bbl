@@ -154,6 +154,52 @@
       \field{volume}{5}
       \field{year}{2015}
     \endentry
+    \entry{KleinGold2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c76b175c7ed1be055e9ed11039372782}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Lauren\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eef31064e487d239ef6e237f2b3d6054}{%
+           family={Gold},
+           familyi={G\bibinitperiod},
+           given={Matthew\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Minnesota Press}%
+      }
+      \strng{namehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{fullhash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{fullhashraw}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{bibnamehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authorbibnamehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authornamehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authorfullhash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authorfullhashraw}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Debates in the Digital Humanities 2016}
+      \field{isbn}{9781452951485}
+      \field{title}{Digital Humanities: The Expanded Field}
+      \field{year}{2016}
+      \field{pages}{ix\bibrangedash xxii}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb https://muse.jhu.edu/pub/23/oa_edited_volume/chapter/1815141#page=307
+      \endverb
+      \verb{url}
+      \verb https://muse.jhu.edu/pub/23/oa_edited_volume/chapter/1815141#page=307
+      \endverb
+    \endentry
     \entry{liu2010social}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=8cfebbe54197d0a6e7c196b6fe8cf3a3}{%
@@ -484,6 +530,52 @@
       \field{title}{The MovieLens Datasets: History and Context}
       \field{volume}{5}
       \field{year}{2015}
+    \endentry
+    \entry{KleinGold2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c76b175c7ed1be055e9ed11039372782}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Lauren\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eef31064e487d239ef6e237f2b3d6054}{%
+           family={Gold},
+           familyi={G\bibinitperiod},
+           given={Matthew\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Minnesota Press}%
+      }
+      \strng{namehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{fullhash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{fullhashraw}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{bibnamehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authorbibnamehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authornamehash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authorfullhash}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \strng{authorfullhashraw}{6c8eeef96aa35662a68ef9ff56dbb450}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Debates in the Digital Humanities 2016}
+      \field{isbn}{9781452951485}
+      \field{title}{Digital Humanities: The Expanded Field}
+      \field{year}{2016}
+      \field{pages}{ix\bibrangedash xxii}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb https://muse.jhu.edu/pub/23/oa_edited_volume/chapter/1815141#page=307
+      \endverb
+      \verb{url}
+      \verb https://muse.jhu.edu/pub/23/oa_edited_volume/chapter/1815141#page=307
+      \endverb
     \endentry
     \entry{liu2010social}{article}{}{}
       \name{author}{4}{}{%

@@ -120,7 +120,7 @@
       \verb https://www.mdpi.com/2076-3417/9/12/2419
       \endverb
     \endentry
-    \entry{MovieLens10M}{article}{}{}
+    \entry{MovieLens10M}{online}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=95c1b94af421fa579fafe01078c70b37}{%
            family={Harper},
@@ -151,8 +151,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The MovieLens Datasets: History and Context}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{volume}{5}
       \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://files.grouplens.org/datasets/movielens/ml-10m-README.html
+      \endverb
+      \verb{url}
+      \verb https://files.grouplens.org/datasets/movielens/ml-10m-README.html
+      \endverb
     \endentry
     \entry{KleinGold2016}{book}{}{}
       \name{author}{2}{}{%
@@ -190,7 +200,11 @@
       \field{booktitle}{Debates in the Digital Humanities 2016}
       \field{isbn}{9781452951485}
       \field{title}{Digital Humanities: The Expanded Field}
+      \field{urlday}{19}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{year}{2016}
+      \field{urldateera}{ce}
       \field{pages}{ix\bibrangedash xxii}
       \range{pages}{14}
       \verb{urlraw}
@@ -333,8 +347,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
       \field{title}{Rating Prediction in Recommender Systems Based on User Behavior Probability and Complex Network Modeling}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{volume}{9}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \field{pages}{30739\bibrangedash 30749}
       \range{pages}{11}
       \verb{urlraw}
@@ -389,10 +407,48 @@
       \field{journaltitle}{Industrial Management \& Data Systems}
       \field{number}{9}
       \field{title}{Using Twitter data to predict the performance of Bollywood movies}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{volume}{115}
       \field{year}{2015}
+      \field{urldateera}{ce}
       \field{pages}{1604\bibrangedash 1621}
       \range{pages}{18}
+    \endentry
+    \entry{ZionMarketResearch2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e25f261bd68035111da8171511750094}{%
+           family={{Zion Market Research}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{e25f261bd68035111da8171511750094}
+      \strng{fullhash}{e25f261bd68035111da8171511750094}
+      \strng{fullhashraw}{e25f261bd68035111da8171511750094}
+      \strng{bibnamehash}{e25f261bd68035111da8171511750094}
+      \strng{authorbibnamehash}{e25f261bd68035111da8171511750094}
+      \strng{authornamehash}{e25f261bd68035111da8171511750094}
+      \strng{authorfullhash}{e25f261bd68035111da8171511750094}
+      \strng{authorfullhashraw}{e25f261bd68035111da8171511750094}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perspektive der Film- und Unterhaltungsbranche}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.zionmarketresearch.com/de/report/global-movies-entertainment-market
+      \endverb
+      \verb{url}
+      \verb https://www.zionmarketresearch.com/de/report/global-movies-entertainment-market
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
@@ -497,7 +553,7 @@
       \verb https://www.mdpi.com/2076-3417/9/12/2419
       \endverb
     \endentry
-    \entry{MovieLens10M}{article}{}{}
+    \entry{MovieLens10M}{online}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=95c1b94af421fa579fafe01078c70b37}{%
            family={Harper},
@@ -528,8 +584,18 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The MovieLens Datasets: History and Context}
+      \field{urlday}{9}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{volume}{5}
       \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://files.grouplens.org/datasets/movielens/ml-10m-README.html
+      \endverb
+      \verb{url}
+      \verb https://files.grouplens.org/datasets/movielens/ml-10m-README.html
+      \endverb
     \endentry
     \entry{KleinGold2016}{book}{}{}
       \name{author}{2}{}{%
@@ -567,7 +633,11 @@
       \field{booktitle}{Debates in the Digital Humanities 2016}
       \field{isbn}{9781452951485}
       \field{title}{Digital Humanities: The Expanded Field}
+      \field{urlday}{19}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{year}{2016}
+      \field{urldateera}{ce}
       \field{pages}{ix\bibrangedash xxii}
       \range{pages}{14}
       \verb{urlraw}
@@ -710,8 +780,12 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Access}
       \field{title}{Rating Prediction in Recommender Systems Based on User Behavior Probability and Complex Network Modeling}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{volume}{9}
       \field{year}{2021}
+      \field{urldateera}{ce}
       \field{pages}{30739\bibrangedash 30749}
       \range{pages}{11}
       \verb{urlraw}
@@ -766,13 +840,50 @@
       \field{journaltitle}{Industrial Management \& Data Systems}
       \field{number}{9}
       \field{title}{Using Twitter data to predict the performance of Bollywood movies}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
       \field{volume}{115}
       \field{year}{2015}
+      \field{urldateera}{ce}
       \field{pages}{1604\bibrangedash 1621}
       \range{pages}{18}
     \endentry
+    \entry{ZionMarketResearch2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e25f261bd68035111da8171511750094}{%
+           family={{Zion Market Research}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{e25f261bd68035111da8171511750094}
+      \strng{fullhash}{e25f261bd68035111da8171511750094}
+      \strng{fullhashraw}{e25f261bd68035111da8171511750094}
+      \strng{bibnamehash}{e25f261bd68035111da8171511750094}
+      \strng{authorbibnamehash}{e25f261bd68035111da8171511750094}
+      \strng{authornamehash}{e25f261bd68035111da8171511750094}
+      \strng{authorfullhash}{e25f261bd68035111da8171511750094}
+      \strng{authorfullhashraw}{e25f261bd68035111da8171511750094}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Perspektive der Film- und Unterhaltungsbranche}
+      \field{urlday}{17}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.zionmarketresearch.com/de/report/global-movies-entertainment-market
+      \endverb
+      \verb{url}
+      \verb https://www.zionmarketresearch.com/de/report/global-movies-entertainment-market
+      \endverb
+    \endentry
   \enddatalist
-  \missing{ZionMarketResearch}
 \endrefsection
 \endinput
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2026.1.26)  20 MAR 2026 13:29
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2026.1.26)  20 MAR 2026 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -528,24 +528,7 @@ Package caption Info: New subtype `subfigure' on input line 238.
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count308
 )
-(C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
-(C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: xetex.def on input line 274.
-
-(C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
 
 (C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
@@ -609,7 +592,6 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\Zer0\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
 Package hyperref Info: Hyper index ON on input line 4165.
@@ -642,7 +624,7 @@ Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
 Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
 
@@ -979,30 +961,30 @@ Package csquotes Info: ... found 'babel' package.
  (essay.aux)
 \openout1 = `essay.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 43.
+Package hyperref Info: Link coloring OFF on input line 37.
  (essay.out) (essay.out)
 \@outlinefile=\write4
 \openout4 = `essay.out'.
@@ -1090,25 +1072,17 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'essay.bbl' found.
- (essay.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ZionMarketResearch
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
+ (essay.bbl)
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 46.
+(Font)              scaled to size 17.28pt on input line 40.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+hv-
 kern;+tnum;+lnum;mapping=tex-text;" at 17.28pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
+(Font)              scaled to size 12.0pt on input line 40.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+hv-
 kern;+tnum;+lnum;mapping=tex-text;" at 12.0pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
@@ -1129,49 +1103,49 @@ Requested font "cmmi12" at 12.0pt
 Requested font "cmmi8" at 8.0pt
 Requested font "cmmi6" at 6.0pt
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 12.00128pt on input line 46.
+(Font)              scaled to size 12.00128pt on input line 40.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;" at 
 12.00128pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 46.
+(Font)              scaled to size 8.00085pt on input line 40.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =0;" at 8.00085pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 46.
+(Font)              scaled to size 6.00064pt on input line 40.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =1;" at 6.00064pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 46.
+(Font)              scaled to size 11.99872pt on input line 40.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;" at 
 11.99872pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 46.
+(Font)              scaled to size 7.99915pt on input line 40.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =0;" at 7.99915pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusMath-Regular.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 46.
+(Font)              scaled to size 5.99936pt on input line 40.
 Requested font "[LibertinusMath-Regular.otf]/OT:script=math;language=dflt;+ssty
 =1;" at 5.99936pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusMath-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 47.
+(Font)              scaled to size 14.4pt on input line 41.
 Requested font "[LibertinusSerif-Regular.otf]/OT:script=latn;language=dflt;+hv-
 kern;+tnum;+lnum;mapping=tex-text;" at 14.4pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
 s-fonts/LibertinusSerif-Regular.otf
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 47.
+(Font)              scaled to size 14.4pt on input line 41.
 Requested font "[LibertinusSerif-Bold.otf]/OT:script=latn;language=dflt;+hv-ker
 n;+tnum;+lnum;mapping=tex-text;" at 14.4pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
@@ -1242,12 +1216,7 @@ s-fonts/LibertinusMath-Regular.otf
 
 [2
 
-]
-
-LaTeX Warning: Citation 'ZionMarketResearch' on page 3 undefined on input line 
-3.
-
-) (src/data_overview.tex
+]) (src/data_overview.tex
 
 [3
 
@@ -1324,7 +1293,7 @@ File: ./assets/Plot1995To2000MovieTable.png Graphic file (type bmp)
 
 ]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 62.
+(Font)              scaled to size 10.95pt on input line 56.
 Requested font "[LibertinusSerif-Italic.otf]/OT:script=latn;language=dflt;+hv-k
 ern;+tnum;+lnum;mapping=tex-text;" at 10.95pt
  -> C:/Users/Zer0/AppData/Local/Programs/MiKTeX/fonts/opentype/public/libertinu
@@ -1345,10 +1314,10 @@ Package logreq Info: Writing requests to 'essay.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28718 strings out of 409068
- 553749 string characters out of 5757835
- 1934545 words of memory out of 5000000
- 51004 multiletter control sequences out of 15000+600000
+ 28255 strings out of 409068
+ 547349 string characters out of 5757835
+ 1936545 words of memory out of 5000000
+ 50549 multiletter control sequences out of 15000+600000
  565270 words of font info for 101 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  120i,7n,154p,754b,7357s stack positions out of 10000i,1000n,20000p,200000b,200000s
